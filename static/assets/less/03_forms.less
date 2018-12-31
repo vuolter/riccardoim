@@ -1,0 +1,52 @@
+
+/** 03. FORMS
+-------------------------------------------------- **/
+
+
+	.form-group:not(:last-child) {
+		margin-bottom: 15px;
+	}
+
+	input[type="email"],
+	input[type="number"],
+	input[type="search"],
+	input[type="text"],
+	input[type="tel"],
+	input[type="url"],
+	input[type="password"],
+	textarea,
+	select {
+		width: 100%;
+		font-family: inherit;
+		padding: 15px;
+		border: none;
+		background: darken(@white_color, 5%);
+	}
+
+	textarea {
+		width: 100%;
+		min-width: 100%;
+		max-width: 100%;
+		min-height: 120px;
+	}
+
+	input[type="search"] {
+		&::-webkit-search-cancel-button,
+		&::-webkit-search-decoration { -webkit-appearance: none; }
+	}
+
+	label {
+		display: block;
+		margin-bottom: 5px;
+		cursor: pointer;
+	}
+
+	// placeholder
+	/*input[type],
+	textarea,
+	select {
+		&::-webkit-input-placeholder { color: darken(@white_color, 30%); }
+		&::-moz-input-placeholder { color: darken(@white_color, 30%); }
+		&:-moz-input-placeholder { color: darken(@white_color, 30%); }
+		&:-ms-input-placeholder { color: darken(@white_color, 30%); }
+	}*/

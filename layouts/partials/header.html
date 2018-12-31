@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="it_IT">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta name="author" content="Riccardo Palombo" />
+
+    <!-- SEO -->
+    <meta name="description" content="{{ if .IsPage }}{{ .Description }}{{ end }}{{ if .IsHome }}Portfolio di Riccardo Palombo. Pagina personale, contatti e lavori scelti.{{ end }}" />
+    <meta name="robots" content="index, follow" />
+    <meta name="referrer" content="always" />
+
+    <title>{{ if .IsPage }}{{ .Title }} - Riccardo Palombo{{ end }}
+        {{ if .IsHome }}{{ .Site.Title }}{{ end }}</title>
+
+    <!-- Social & Open Graph -->
+    <meta property="og:title" content="{{ if .IsPage }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
+    <meta property="og:description" content="{{ .Description }}" />
+    <meta property="og:url" content="{{ .Site.BaseURL }}" />
+    <meta property="og:image" content="/assets/img/about.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@riccardopalombo" />
+    <link rel="icon" type="image/x-icon" href="{{.Site.BaseURL}}assets/img/favicon.ico" />
+    <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli|Lora" />
+
+</head>
+
+<body>
+    <div class="fade"></div>
+
+
+    <div id="site">
+        <!-- header -->
+        <header class="header">
+            <div class="logo">
+                <a title="Homepage di Riccardo Palombo" href="{{.Site.BaseURL}}index.html">Riccardo.im<span class="blinking-cursor" >
+                        |</span></a>
+            </div>
+
+            <div class="burger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </header>

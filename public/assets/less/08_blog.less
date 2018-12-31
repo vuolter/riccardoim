@@ -1,0 +1,168 @@
+
+/** 07. BLOG
+-------------------------------------------------- **/
+
+
+	.thumb__image {
+		.transition(all 0.3s ease);
+
+		&:hover { opacity: 0.7; }
+	}
+
+	.thumb__header {
+		padding-top: 25px;
+
+		.post__title a {
+			.transition(all 0.3s ease);
+
+			&:hover { color: lighten(@dark_color, 50%); }
+		}
+	}
+
+	.post__metas {
+		span {
+			display: inline-block;
+			position: relative;
+			font-family: @font2;
+			font-size: 14px;
+
+			&:not(:last-child) {
+				margin-right: 15px;
+			}
+		}
+	}
+
+	.post__header {
+		margin: 25px 0;
+	}
+
+	.tags {
+		font-family: @font2;
+		font-size: 14px;
+
+		span { margin-right: 15px; }
+
+		a {
+			&:not(:last-child) { margin-right: 10px; }
+		}
+	}
+
+
+	// search
+	// --------------------
+
+	.search {
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 30%;
+		z-index: 10;
+		background: @white_color;
+		opacity: 0;
+		visibility: hidden;
+
+		.transition(all 0.3s ease);
+
+		&.visible {
+			opacity: 1;
+			visibility: visible;
+
+			form {
+				display: block;
+				opacity: 1;
+				visibility: visible;
+			}
+		}
+
+		form {
+			padding: 40px;
+
+			h1 {
+				line-height: 1;
+				margin-bottom: 50px;
+			}
+
+			.field {
+				width: 100%;
+				height: 50px;
+				font-size: 17px;
+				border-bottom: 2px solid darken(@white_color, 10%);
+				background: none;
+				padding: 0;
+			}
+		}
+	}
+
+
+	// comments
+	// --------------------
+
+	.post__comments {
+		margin-top: 50px;
+
+		.comments__list {
+			.comment {
+				&:not(:last-child) {
+					margin-bottom: 40px;
+				}
+
+				.comment-img {
+					width: 60px;
+					float: left;
+
+					img {
+						display: block;
+						width: 100%;
+					}
+				}
+
+				.comment-content {
+					padding-left: 80px;
+
+					.name { font-weight: 700; }
+
+					.date {
+						font-family: @font2;
+						font-size: 12px;
+					}
+
+					.desc { margin: 25px 0; }
+
+					a.reply {
+						font-family: @font2;
+						font-size: 14px;
+					}
+				}
+			}
+
+			.comments__list { padding: 40px 0 0 40px; }
+
+			// responsive
+			.responsive(600px, {
+				.comment {
+					.comment-img { width: 50px; }
+					.comment-content { padding-left: 70px; }
+				}
+
+				.comments__list { padding: 50px 0 0 0; }
+			});
+
+			.responsive(400px, {
+				.comment {
+					.comment-img { display: none; }
+					.comment-content { padding-left: 0; }
+				}
+			});
+		}
+	}
+
+
+	// responsive
+	.responsive(800px, {
+		.search {
+			left: 60px;
+
+			form { padding: 30px; }
+		}
+	});

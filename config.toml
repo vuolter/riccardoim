@@ -1,0 +1,8 @@
+baseURL = "https://riccardo.im"
+languageCode = "it-IT"
+title = "Riccardo.im"
+disableKinds = ["taxonomy","taxonomyTerm"]
+[sitemap]
+changefreq = "monthly"
+filename = "sitemap.xml"
+priority = 0.5
