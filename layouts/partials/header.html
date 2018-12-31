@@ -18,13 +18,12 @@
     <meta property="og:title" content="{{ if .IsPage }}{{ .Title }} - {{ end }}{{ .Site.Title }}" />
     <meta property="og:description" content="{{ .Description }}" />
     <meta property="og:url" content="{{ .Site.BaseURL }}" />
-    <meta property="og:image" content="/assets/img/about.jpg" />
+    <meta property="og:image" content="{{.Site.BaseURL}}assets/img/riccardo-palombo-foto.jpg" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@riccardopalombo" />
     <link rel="icon" type="image/x-icon" href="{{.Site.BaseURL}}assets/img/favicon.ico" />
     <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Muli|Lora" />
-
 </head>
 
 <body>
@@ -35,10 +34,8 @@
         <!-- header -->
         <header class="header">
             <div class="logo">
-                <a title="Homepage di Riccardo Palombo" href="{{.Site.BaseURL}}index.html">Riccardo.im<span class="blinking-cursor" >
-                        |</span></a>
+                <a title="Homepage di Riccardo Palombo" href="{{.Site.BaseURL}}index.html">Riccardo.im<span class="blinking-cursor" > |</span></a>
             </div>
-
             <div class="burger">
                 <span></span>
                 <span></span>
