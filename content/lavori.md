@@ -108,10 +108,61 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 						</div>
 					</div>
 				</div>
+<div class="gap-50"></div>
+
+<div class="row">
+<!-- thumb -->
+<div class="column col-4">
+						<div class="thumb__image">
+							<a href="https://hardware.hdblog.it/2017/06/29/surface-laptop-recensione/" title="Vedi la recensione a Surface Laptop su HDblog.it">
+								<img src="/assets/img/blog/surface-laptop-recensione-palombo.jpg" alt="Recensione Surface Laptop" class="responsive">
+							</a>
+						</div>
+						<div class="thumb__header">
+							<div class="post__metas">
+								<span class="post__cat">Portatili</span>
+								<span class="post__date">29.06.2017</span>
+							</div>
+							<h4 class="post__title">Surface Laptop</h4>
+						</div>
+					</div>
+				
+<!-- thumb -->
+<div class="column col-4">
+						<div class="thumb__image">
+							<a href="https://altadefinizione.hdblog.it/2017/10/13/recensione-panasonic-lumix-gh5/" title="Vedi la recensione a Panasonic Lumix GH5 su HDblog.it">
+								<img src="/assets/img/blog/gh5-recensione-palombo.jpg" alt="Recensione Panasonic Lumix GH5" class="responsive">
+							</a>
+						</div>
+						<div class="thumb__header">
+							<div class="post__metas">
+								<span class="post__cat">Fotocamera</span>
+								<span class="post__date">13.10.2017</span>
+							</div>
+							<h4 class="post__title">Panasonic Lumix GH5</h4>
+						</div>
+					</div>
+
+<!-- thumb -->
+<div class="column col-4">
+					<div class="thumb__image">
+							<a href="https://android.hdblog.it/2017/09/30/recensione-xiaomi-mi-mix-2/" title="Vedi la recensione a Xiaomi Mi Mix 2 su HDblog.it" target="_blank">
+								<img src="/assets/img/blog/mi-mix-2-recensione-palombo.jpg" alt="Recensione Xiaomi Mi Mix 2" class="responsive">
+							</a>
+						</div>
+						<div class="thumb__header">
+							<div class="post__metas">
+								<span class="post__cat">Smartphone</span>
+								<span class="post__date">30.09.2017</span>
+							</div>
+							<h4 class="post__title">Xiaomi Mi Mix 2</h4>
+						</div>	
+					</div>
+				</div>
 <ul class="pages__nav clearfix">
 					<li class="number">1</li>
 					<li class="number">di</li>
-					<li class="number">3</li>
+					<li class="number">2</li>
 					<li class="next"><a href="/lavori-2" title="Vai a Pagina 2 - Lavori Riccardo Palombo"><span class="icon"></span></a></li>
 				</ul>
 </div>

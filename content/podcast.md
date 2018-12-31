@@ -32,12 +32,6 @@ description: "Il Mordente è un Podcast curato e registrato da Riccardo Palombo.
 	<span>Info e dettagli:</span>
 	<a href="https://ilmordente.it" class="link" title ="Visita ilmordente.it">ilmordente.it</a>
 </p>
-
-<div class="post__image">
-<a href="https://itunes.apple.com/it/podcast/il-mordente/id1445363230" title ="Ascolta Il Mordente su Apple Podcast"><img class="badge" src="/assets/img/works/apple-podcast-badge.png" alt="Il Mordente su Apple Podcast"></a>
-<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&hl=it" title ="Ascolta Il Mordente su Google Podcast"><img class="badge"src="/assets/img/works/google-podcast-badge.png" alt="Il Mordente su Google Podcast"></a>
-<a href="https://open.spotify.com/show/2Ap4QCxQvnV9nvsFIwVrXP" title ="Ascolta Il Mordente su Spotify"><img class="badge"src="/assets/img/works/spotify-podcast-badge.png" alt="Il Mordente su Spotify"></a>
-</div>
 				</div>
 
 </div>

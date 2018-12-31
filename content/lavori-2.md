@@ -1,5 +1,5 @@
 ---
-title: "Lavori - Pagina 2"
+title: "Lavori parte 2"
 date: 2018-12-15T06:31:28+01:00
 description: "La selezione delle migliori recensioni, delle foto e dei video di Riccardo Palombo. Parte 2"
 ---
@@ -59,7 +59,57 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 				</div>
 
 <div class="gap-50"></div>
+				<div class="row">
+<!-- thumb -->
+<div class="column col-4">
+<div class="thumb__image">
+							<a href="https://hardware.hdblog.it/2018/04/06/intel-compute-card-recensione/" title="Vedi la recensione a Intel Compute Card su HDblog.it">
+								<img src="/assets/img/blog/intel-compute-card-recensione-palombo.jpg" alt="Recensione Intel Compute Card" class="responsive">
+							</a>
+						</div>
+						<div class="thumb__header">
+							<div class="post__metas">
+								<span class="post__cat">PC</span>
+								<span class="post__date">09.04.2018</span>
+							</div>
+							<h4 class="post__title">Intel Compute Card</h4>
+						</div>
+				
+</div>
 
+<!-- thumb -->
+<div class="column col-4">
+						<div class="thumb__image">
+							<a href="https://games.hdblog.it/2018/05/01/recensione-donkey-kong-country-tropical-freeze/" title="Vedi la recensione a Donkey Kong Country su HDblog.it" target="_blank">
+								<img src="/assets/img/blog/donkey-kong-recensione-palombo.jpg" alt="Recensione Mac Mini 2018" class="responsive">
+							</a>
+						</div>
+						<div class="thumb__header">
+							<div class="post__metas">
+								<span class="post__cat">Games</span>
+								<span class="post__date">01.05.2018</span>
+							</div>
+							<h4 class="post__title">Donkey Kong Country</h4>
+						</div>
+					</div>
+
+<!-- thumb -->
+<div class="column col-4">
+						<div class="thumb__image">
+							<a href="https://www.hdblog.it/2017/11/06/kindle-oasis-2-recensione/" title="Vedi la recensione a Kindle Oasis 2 su HDblog.it">
+								<img src="/assets/img/blog/kindle-oasis-recensione-palombo.jpg" alt="Recensione Kindle Oasis 2" class="responsive">
+							</a>
+						</div>
+						<div class="thumb__header">
+							<div class="post__metas">
+								<span class="post__cat">Ebook Reader</span>
+								<span class="post__date">06.11.2017</span>
+							</div>
+							<h4 class="post__title">Kindle Oasis 2</h4>
+						</div>
+					</div>
+				</div>
+				<div class="gap-50"></div>
 <div class="row">
 <!-- thumb -->
 <div class="column col-4">
@@ -113,7 +163,6 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 					<li class="prev"><a href="/lavori" title="Torna a Pagina 1 - Lavori Riccardo Palombo"><span class="icon"></span></a></li>
 					<li class="number">2</li>
 					<li class="number">di</li>
-					<li class="number">3</li>
-					<li class="next"><a href="/lavori-3" title="Vai a Pagina 3 - Lavori Riccardo Palombo"><span class="icon"></span></a></li>
+					<li class="number">2</li>
 				</ul>
 </div>
