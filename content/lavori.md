@@ -11,7 +11,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://apple.hdblog.it/2018/10/02/recensione-apple-macbook-pro-2018/" title="Vedi la recensione a MacBook Pro 13 2018 su HDblog.it" target="_blank">
+							<a href="https://apple.hdblog.it/2018/10/02/recensione-apple-macbook-pro-2018/" title="Vedi la recensione a MacBook Pro 13 2018 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/macbook-pro-recensione-palombo.jpg" alt="Recensione MacBook Pro 2018" class="responsive">
 							</a>
 						</div>
@@ -27,7 +27,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://samsung.hdblog.it/2018/04/16/samsung-galaxy-s9-recensione/" title="Vedi la recensione a Samsung Galaxy S9 su HDblog.it" target="_blank">
+							<a href="https://samsung.hdblog.it/2018/04/16/samsung-galaxy-s9-recensione/" title="Vedi la recensione a Samsung Galaxy S9 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/samsung-galaxy-s9-recensione-palombo.jpg" alt="Recensione Samsung Galaxy S9" class="responsive">
 							</a>
 						</div>
@@ -43,7 +43,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://hardware.hdblog.it/2018/04/20/recensione-amd-ryzen-7-2700x/" title="Vedi la recensione ad AMD Ryzen 7 2700X su HDblog.it">
+							<a href="https://hardware.hdblog.it/2018/04/20/recensione-amd-ryzen-7-2700x/" title="Vedi la recensione ad AMD Ryzen 7 2700X su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/amd-ryzen-recensione-palombo.jpg" alt="Recensione AMD Ryzen 7 2700X" class="responsive">
 							</a>
 						</div>
@@ -63,7 +63,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://hardware.hdblog.it/2018/10/23/amazon-alexa-echo-italia-prezzi-modelli/" title="Vedi la recensione ad Amazon Echo ed Alexa su HDblog.it">
+							<a href="https://hardware.hdblog.it/2018/10/23/amazon-alexa-echo-italia-prezzi-modelli/" title="Vedi la recensione ad Amazon Echo ed Alexa su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/amazon-echo-alexa-recensione-palombo.jpg" alt="Recensione Amazon Echo e Alexa" class="responsive">
 							</a>
 						</div>
@@ -79,7 +79,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://www.hdblog.it/2018/05/09/recensione-garmin-forerunner-645-music/" title="Vedi la recensione a Garmin Forerunner 645 Music su HDblog.it">
+							<a href="https://www.hdblog.it/2018/05/09/recensione-garmin-forerunner-645-music/" title="Vedi la recensione a Garmin Forerunner 645 Music su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/garmin-forerunner-recensione-palombo.jpg" alt="Recensione Garmin Forerunner 645" class="responsive">
 							</a>
 						</div>
@@ -95,7 +95,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://games.hdblog.it/2018/11/27/recensione-sony-playstation-classic/" title="Vedi la recensione a Sony PlayStatin Classic su HDblog.it">
+							<a href="https://games.hdblog.it/2018/11/27/recensione-sony-playstation-classic/" title="Vedi la recensione a Sony PlayStatin Classic su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/playstation-classic-recensione-palombo.jpg" alt="Recensione PlayStation Classic" class="responsive">
 							</a>
 						</div>
@@ -114,7 +114,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://hardware.hdblog.it/2017/06/29/surface-laptop-recensione/" title="Vedi la recensione a Surface Laptop su HDblog.it">
+							<a href="https://hardware.hdblog.it/2017/06/29/surface-laptop-recensione/" title="Vedi la recensione a Surface Laptop su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/surface-laptop-recensione-palombo.jpg" alt="Recensione Surface Laptop" class="responsive">
 							</a>
 						</div>
@@ -130,7 +130,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://altadefinizione.hdblog.it/2017/10/13/recensione-panasonic-lumix-gh5/" title="Vedi la recensione a Panasonic Lumix GH5 su HDblog.it">
+							<a href="https://altadefinizione.hdblog.it/2017/10/13/recensione-panasonic-lumix-gh5/" title="Vedi la recensione a Panasonic Lumix GH5 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/gh5-recensione-palombo.jpg" alt="Recensione Panasonic Lumix GH5" class="responsive">
 							</a>
 						</div>
@@ -146,7 +146,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 					<div class="thumb__image">
-							<a href="https://android.hdblog.it/2017/09/30/recensione-xiaomi-mi-mix-2/" title="Vedi la recensione a Xiaomi Mi Mix 2 su HDblog.it" target="_blank">
+							<a href="https://android.hdblog.it/2017/09/30/recensione-xiaomi-mi-mix-2/" title="Vedi la recensione a Xiaomi Mi Mix 2 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/mi-mix-2-recensione-palombo.jpg" alt="Recensione Xiaomi Mi Mix 2" class="responsive">
 							</a>
 						</div>
@@ -163,6 +163,6 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 					<li class="number">1</li>
 					<li class="number">di</li>
 					<li class="number">2</li>
-					<li class="next"><a href="/lavori-2" title="Vai a Pagina 2 - Lavori Riccardo Palombo"><span class="icon"></span></a></li>
+					<li class="next"><a href="/lavori-2" title="Vai a Pagina 2 - Recensioni di Riccardo Palombo"><span class="icon"></span></a></li>
 				</ul>
 </div>

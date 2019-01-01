@@ -11,7 +11,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 <div class="thumb__image">
-							<a href="https://www.hdblog.it/2017/12/01/recensione-rasoio-braun-series-9/" title="Vedi la recensione a Braun Series 9 su HDblog.it">
+							<a href="https://www.hdblog.it/2017/12/01/recensione-rasoio-braun-series-9/" title="Vedi la recensione a Braun Series 9 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/rasoio-braun-recensione-palombo.jpg" alt="Recensione Braun Series 9" class="responsive">
 							</a>
 						</div>
@@ -28,7 +28,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://apple.hdblog.it/2018/11/30/recensione-apple-mac-mini-2018/" title="Vedi la recensione ad Apple Mac Mini 2018 su HDblog.it" target="_blank">
+							<a href="https://apple.hdblog.it/2018/11/30/recensione-apple-mac-mini-2018/" title="Vedi la recensione ad Apple Mac Mini 2018 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/mac-mini-recensione-palombo.jpg" alt="Recensione Mac Mini 2018" class="responsive">
 							</a>
 						</div>
@@ -44,7 +44,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://www.hdblog.it/2018/10/15/reolink-argus-pro-recensione-videosorveglianza/" title="Vedi la recensione a Reolink Argus Pro su HDblog.it">
+							<a href="https://www.hdblog.it/2018/10/15/reolink-argus-pro-recensione-videosorveglianza/" title="Vedi la recensione a Reolink Argus Pro su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/reolink-argus-recensione-palombo.jpg" alt="Recensione Reolink Argus Pro" class="responsive">
 							</a>
 						</div>
@@ -63,7 +63,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 <div class="thumb__image">
-							<a href="https://hardware.hdblog.it/2018/04/06/intel-compute-card-recensione/" title="Vedi la recensione a Intel Compute Card su HDblog.it">
+							<a href="https://hardware.hdblog.it/2018/04/06/intel-compute-card-recensione/" title="Vedi la recensione a Intel Compute Card su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/intel-compute-card-recensione-palombo.jpg" alt="Recensione Intel Compute Card" class="responsive">
 							</a>
 						</div>
@@ -80,7 +80,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://games.hdblog.it/2018/05/01/recensione-donkey-kong-country-tropical-freeze/" title="Vedi la recensione a Donkey Kong Country su HDblog.it" target="_blank">
+							<a href="https://games.hdblog.it/2018/05/01/recensione-donkey-kong-country-tropical-freeze/" title="Vedi la recensione a Donkey Kong Country su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/donkey-kong-recensione-palombo.jpg" alt="Recensione Mac Mini 2018" class="responsive">
 							</a>
 						</div>
@@ -96,7 +96,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://www.hdblog.it/2017/11/06/kindle-oasis-2-recensione/" title="Vedi la recensione a Kindle Oasis 2 su HDblog.it">
+							<a href="https://www.hdblog.it/2017/11/06/kindle-oasis-2-recensione/" title="Vedi la recensione a Kindle Oasis 2 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/kindle-oasis-recensione-palombo.jpg" alt="Recensione Kindle Oasis 2" class="responsive">
 							</a>
 						</div>
@@ -114,7 +114,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://hardware.hdblog.it/2018/02/08/recensione-dell-xps-13-9370/" title="Vedi la recensione a Dell XPS 13 su HDblog.it">
+							<a href="https://hardware.hdblog.it/2018/02/08/recensione-dell-xps-13-9370/" title="Vedi la recensione a Dell XPS 13 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/dell-xps-13-recensione-palombo.jpg" alt="Recensione Dell XPS 13 9370" class="responsive">
 							</a>
 						</div>
@@ -130,7 +130,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://android.hdblog.it/2018/03/12/sony-xperia-xa2-recensione/" title="Vedi la recensione a Sony Xperia XA2 su HDblog.it">
+							<a href="https://android.hdblog.it/2018/03/12/sony-xperia-xa2-recensione/" title="Vedi la recensione a Sony Xperia XA2 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/sony-xperia-recensione-palombo.jpg" alt="Recensione Sony Xperia XA2" class="responsive">
 							</a>
 						</div>
@@ -146,7 +146,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 					<div class="thumb__image">
-							<a href="https://samsung.hdblog.it/2018/09/17/recensione-samsung-galaxy-tab-s4/" title="Vedi la recensione a Samsung Galaxy Tab S4 2018 su HDblog.it" target="_blank">
+							<a href="https://samsung.hdblog.it/2018/09/17/recensione-samsung-galaxy-tab-s4/" title="Vedi la recensione a Samsung Galaxy Tab S4 2018 su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/galaxy-tab-s4-recensione-palombo.jpg" alt="Recensione Samsung Galaxy Tab S4" class="responsive">
 							</a>
 						</div>
@@ -160,7 +160,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 					</div>
 				</div>
 <ul class="pages__nav clearfix">
-					<li class="prev"><a href="/lavori" title="Torna a Pagina 1 - Lavori Riccardo Palombo"><span class="icon"></span></a></li>
+					<li class="prev"><a href="/lavori" title="Torna a Pagina 1 - Recensioni di Riccardo Palombo"><span class="icon"></span></a></li>
 					<li class="number">2</li>
 					<li class="number">di</li>
 					<li class="number">2</li>
