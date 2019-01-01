@@ -8,7 +8,7 @@ description: "Il Mordente è un Podcast curato e registrato da Riccardo Palombo.
 			<!-- post -->
 			<div class="post">
 				<div class="post__image">
-<img src="/assets/img/riccardo-palombo.jpg" alt="Il Mordente - Un Podcast di Riccardo Palombo" class="responsive">
+<img src="/assets/img/palombo-riccardo-podcast.jpg" alt="Copertina de Il Mordente - Un Podcast di Riccardo Palombo" class="responsive">
 				</div>
 
 <div class="post__header">
@@ -32,6 +32,11 @@ description: "Il Mordente è un Podcast curato e registrato da Riccardo Palombo.
 	<span>Info e dettagli:</span>
 	<a href="https://ilmordente.it" class="link" title ="Visita ilmordente.it">ilmordente.it</a>
 </p>
+
+<div class="post__image">
+<img src="/assets/img/il-mordente-podcast-sito.webp" alt="Il sito ilmordente.it" class="responsive border">
 				</div>
+
+</div>
 
 </div>
