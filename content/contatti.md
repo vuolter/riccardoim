@@ -13,13 +13,13 @@ description: "Contatta e scrivi a Riccardo Palombo. Invia un messaggio per colla
 
 <span class="big__title">Contatti</span>
 
-<h2>Usa il modulo sotto per propormi collaborazioni, suggerimenti o idee. Se preferisci inviare una e-mail, trovi il mio indirizzo a fondo pagina.</h2>
+<h2>Usa il modulo a seguire per propormi collaborazioni, suggerimenti o idee. Se preferisci inviare una email, trovi il mio indirizzo a fondo pagina (è facile da ricordare).</h2>
 
 <div class="gap-25"></div>
 
 <div class="row">
 		<div class="column col-6">
-				<form method="post" action="https://formspree.io/riccardo.palombo@gmail.com" autocomplete="off">
+				<form method="post" action="https://formspree.io/email@riccardo.im" autocomplete="off">
 					<div class="form-group">
 						<label for="name">Il tuo nome</label>
 						<input type="text" name="name" id="name">
