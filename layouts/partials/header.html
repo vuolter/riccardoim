@@ -25,6 +25,27 @@
     <link rel="stylesheet" href="{{.Site.BaseURL}}assets/css/main.css" />
     <link href="https://fonts.googleapis.com/css?family=Lora:400i|Muli:400,700" rel="stylesheet">
     <meta name="google-site-verification" content="cXrjSzkN4jWUbz-aZQ_WUGH7P-tVUL_aOko67buVZ5o" />
+        <!-- GDPR banner -->
+        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+        <script>
+        window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#000"
+            },
+            "button": {
+              "background": "#f1d600"
+            }
+          },
+          "content": {
+            "message": "Questo sito usa i cookies per migliorare la tua esperienza di navigazione.",
+            "dismiss": "OK",
+            "link": "Leggi di più."
+          }
+        })});
+        </script>
 </head>
 
 <body>
