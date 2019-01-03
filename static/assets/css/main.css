@@ -884,11 +884,11 @@ label {
 }
 
 .footer p {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 }
 
 .footer .share li a {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 }
 
 @media (max-width:800px) {
@@ -931,7 +931,7 @@ label {
 }
 
 .gallery .entry .entry__overlay .cat {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 14px;
 	color: #ffffff;
 	position: relative;
@@ -978,7 +978,7 @@ label {
 }
 
 .project__header .project__cat {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 14px;
 	line-height: 1;
 }
@@ -1065,7 +1065,7 @@ label {
 .project__description .project__details li {
 	display: block;
 	position: relative;
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 14px;
 	line-height: 1;
 }
@@ -1104,7 +1104,7 @@ label {
 	top: 100%;
 	left: 0;
 	margin-top: -5px;
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 12px;
 	font-weight: 400;
 	padding: 5px 15px;
@@ -1185,7 +1185,7 @@ label {
 -------------------------------------------------- **/
 .about .services__list,
 .about .featured__list {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 17px;
 }
 
@@ -1217,7 +1217,7 @@ label {
 .post__metas span {
 	display: inline-block;
 	position: relative;
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 14px;
 }
 
@@ -1235,7 +1235,7 @@ label {
 }
 
 .tags {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 14px;
 }
 
@@ -1317,7 +1317,7 @@ label {
 }
 
 .post__comments .comments__list .comment .comment-content .date {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 12px;
 }
 
@@ -1326,7 +1326,7 @@ label {
 }
 
 .post__comments .comments__list .comment .comment-content a.reply {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-size: 14px;
 }
 
