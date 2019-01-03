@@ -313,7 +313,7 @@ ol {
 }
 
 blockquote {
-	font-family: 'Lora', serif;
+	font-family: 'Lora', Courier;
 	font-style: italic;
 	padding: 10px 15px 10px 25px;
 	color: #0000cc;

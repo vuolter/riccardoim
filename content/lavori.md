@@ -1,5 +1,5 @@
 ---
-title: "Lavori"
+title: "Recensioni"
 date: 2018-12-15T06:31:28+01:00
 description: "La selezione delle migliori recensioni, delle foto e dei video di Riccardo Palombo."
 ---
