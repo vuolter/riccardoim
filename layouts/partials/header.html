@@ -63,4 +63,11 @@
                 <span></span>
                 <span></span>
             </div>
+            {{ if isset .Params "infobox" }}
+            <div class="info">
+				<span>Info</span>
+				<span>Chiudi</span>
+            </div>
+            {{ end }}
         </header>
+        

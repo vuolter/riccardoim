@@ -2,6 +2,7 @@
 title: "Recensioni"
 date: 2018-12-15T06:31:28+01:00
 description: "La selezione delle migliori recensioni, delle foto e dei video di Riccardo Palombo."
+infobox: "yes"
 ---
 
 <div class="site__content">
@@ -95,7 +96,7 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 <!-- thumb -->
 <div class="column col-4">
 						<div class="thumb__image">
-							<a href="https://games.hdblog.it/2018/11/27/recensione-sony-playstation-classic/" title="Vedi la recensione a Sony PlayStatin Classic su HDblog.it" target="_blank" rel="noopener">
+							<a href="https://games.hdblog.it/2018/11/27/recensione-sony-playstation-classic/" title="Vedi la recensione a Sony PlayStation Classic su HDblog.it" target="_blank" rel="noopener">
 								<img src="/assets/img/blog/playstation-classic-recensione-palombo.jpg" alt="Recensione PlayStation Classic" class="responsive">
 							</a>
 						</div>
@@ -160,9 +161,27 @@ description: "La selezione delle migliori recensioni, delle foto e dei video di 
 					</div>
 				</div>
 <ul class="pages__nav clearfix">
+					<li class="prev"><span class="icon"></span></li>
 					<li class="number">1</li>
 					<li class="number">di</li>
 					<li class="number">2</li>
 					<li class="next"><a href="/lavori-2" title="Vai a Pagina 2 - Recensioni di Riccardo Palombo"><span class="icon"></span></a></li>
 				</ul>
+</div>
+
+<!-- project description -->
+<div class="project__description">
+				<div class="row">
+					<div class="column col-6">
+						<h5>Le recensioni</h5>
+
+<p>Ho pubblicato almeno 500 video recensioni in 12 anni di lavoro online. Ecco una selezione dell'ultimo periodo. Clicca sul prodotto per i dettagli.</p>
+
+<ul class="project__details">
+							<li><span class="title">Cliente</span> HDblog.it</li>
+							<li><span class="title">Periodo</span> 2014-2019</li>
+							<li><span class="title">Ruolo</span> Editor & Videomaker</li>
+						</ul>
+					</div>
+			</div>
 </div>

@@ -13,7 +13,7 @@ description: "Contatta e scrivi a Riccardo Palombo. Invia un messaggio per colla
 
 <span class="big__title">Contatti</span>
 
-<h2>Usa il modulo a seguire per propormi collaborazioni, suggerimenti o idee. Se preferisci inviare una email, trovi il mio indirizzo a fondo pagina (è facile da ricordare).</h2>
+<h2>Usa il modulo a seguire per idee, collaborazioni, suggerimenti. Se preferisci inviare una email, trovi il mio indirizzo a fondo pagina (è facile da ricordare).</h2>
 
 <div class="gap-25"></div>
 
