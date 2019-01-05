@@ -21,7 +21,7 @@ infobox: "yes"
 								<span class="post__cat">Gadgets</span>
 								<span class="post__date">27.11.2018</span>
 							</div>
-							<h4 class="post__title">Braun Series 9</h4>
+							<h3 class="post__title">Braun Series 9</h3>
 						</div>
 				
 </div>
@@ -38,7 +38,7 @@ infobox: "yes"
 								<span class="post__cat">PC</span>
 								<span class="post__date">30.11.2018</span>
 							</div>
-							<h4 class="post__title">Mac Mini 2018</h4>
+							<h3 class="post__title">Mac Mini 2018</h3>
 						</div>
 					</div>
 
@@ -54,7 +54,7 @@ infobox: "yes"
 								<span class="post__cat">Smart Home</span>
 								<span class="post__date">15.11.2018</span>
 							</div>
-							<h4 class="post__title">Reolink Argus Pro</h4>
+							<h3 class="post__title">Reolink Argus Pro</h3>
 						</div>
 					</div>
 				</div>
@@ -73,7 +73,7 @@ infobox: "yes"
 								<span class="post__cat">PC</span>
 								<span class="post__date">09.04.2018</span>
 							</div>
-							<h4 class="post__title">Intel Compute Card</h4>
+							<h3 class="post__title">Intel Compute Card</h3>
 						</div>
 				
 </div>
@@ -90,7 +90,7 @@ infobox: "yes"
 								<span class="post__cat">Games</span>
 								<span class="post__date">01.05.2018</span>
 							</div>
-							<h4 class="post__title">Donkey Kong Country</h4>
+							<h3 class="post__title">Donkey Kong Country</h3>
 						</div>
 					</div>
 
@@ -106,7 +106,7 @@ infobox: "yes"
 								<span class="post__cat">Ebook Reader</span>
 								<span class="post__date">06.11.2017</span>
 							</div>
-							<h4 class="post__title">Kindle Oasis 2</h4>
+							<h3 class="post__title">Kindle Oasis 2</h3>
 						</div>
 					</div>
 				</div>
@@ -124,7 +124,7 @@ infobox: "yes"
 								<span class="post__cat">Portatili</span>
 								<span class="post__date">08.02.2018</span>
 							</div>
-							<h4 class="post__title">Dell XPS 13 9370</h4>
+							<h3 class="post__title">Dell XPS 13 9370</h3>
 						</div>
 					</div>
 				
@@ -140,7 +140,7 @@ infobox: "yes"
 								<span class="post__cat">Smartphone</span>
 								<span class="post__date">12.03.2018</span>
 							</div>
-							<h4 class="post__title">Sony Xperia XA2</h4>
+							<h3 class="post__title">Sony Xperia XA2</h3>
 						</div>
 					</div>
 
@@ -156,7 +156,7 @@ infobox: "yes"
 								<span class="post__cat">Tablet</span>
 								<span class="post__date">17.09.2018</span>
 							</div>
-							<h4 class="post__title">Samsung Galaxy Tab S4</h4>
+							<h3 class="post__title">Samsung Galaxy Tab S4</h3>
 						</div>	
 					</div>
 				</div>
@@ -165,14 +165,13 @@ infobox: "yes"
 					<li class="number">2</li>
 					<li class="number">di</li>
 					<li class="number">2</li>
-					<li class="next"><span class="icon"></span></li>
 				</ul>
 </div>
 <!-- project description -->
 <div class="project__description">
 				<div class="row">
 					<div class="column col-6">
-						<h5>Le recensioni - Parte 2</h5>
+						<h2>Le recensioni - Parte 2</h2>
 
 <p>Ho pubblicato almeno 500 video recensioni in 12 anni di lavoro online. Ecco una selezione dell'ultimo periodo. Clicca sul prodotto per i dettagli.</p>
 

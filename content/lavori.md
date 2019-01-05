@@ -21,7 +21,7 @@ infobox: "yes"
 								<span class="post__cat">Laptop</span>
 								<span class="post__date">02.11.2018</span>
 							</div>
-							<h4 class="post__title">Apple MacBook Pro 13</h4>
+							<h3 class="post__title">Apple MacBook Pro 13</h3>
 						</div>
 					</div>
 
@@ -37,7 +37,7 @@ infobox: "yes"
 								<span class="post__cat">Smartphone</span>
 								<span class="post__date">16.04.2018</span>
 							</div>
-							<h4 class="post__title">Samsung Galaxy S9</h4>
+							<h3 class="post__title">Samsung Galaxy S9</h3>
 						</div>
 					</div>
 
@@ -53,7 +53,7 @@ infobox: "yes"
 								<span class="post__cat">PC</span>
 								<span class="post__date">20.05.2018</span>
 							</div>
-							<h4 class="post__title">AMD Ryzen 2 2700X</h4>
+							<h3 class="post__title">AMD Ryzen 2 2700X</h3>
 						</div>
 					</div>
 				</div>
@@ -73,7 +73,7 @@ infobox: "yes"
 								<span class="post__cat">Smart Home</span>
 								<span class="post__date">24.10.2018</span>
 							</div>
-							<h4 class="post__title">Amazon Alexa & Echo</h4>
+							<h3 class="post__title">Amazon Alexa & Echo</h3>
 						</div>
 					</div>
 				
@@ -89,7 +89,7 @@ infobox: "yes"
 								<span class="post__cat">Sportwatch</span>
 								<span class="post__date">09.05.2018</span>
 							</div>
-							<h4 class="post__title">Garmin Forerunner 645</h4>
+							<h3 class="post__title">Garmin Forerunner 645</h3>
 						</div>
 					</div>
 
@@ -105,7 +105,7 @@ infobox: "yes"
 								<span class="post__cat">Console</span>
 								<span class="post__date">27.11.2018</span>
 							</div>
-							<h4 class="post__title">Sony PlayStation Classic</h4>
+							<h3 class="post__title">Sony PlayStation Classic</h3>
 						</div>
 					</div>
 				</div>
@@ -124,7 +124,7 @@ infobox: "yes"
 								<span class="post__cat">Portatili</span>
 								<span class="post__date">29.06.2017</span>
 							</div>
-							<h4 class="post__title">Surface Laptop</h4>
+							<h3 class="post__title">Surface Laptop</h3>
 						</div>
 					</div>
 				
@@ -140,7 +140,7 @@ infobox: "yes"
 								<span class="post__cat">Fotocamera</span>
 								<span class="post__date">13.10.2017</span>
 							</div>
-							<h4 class="post__title">Panasonic Lumix GH5</h4>
+							<h3 class="post__title">Panasonic Lumix GH5</h3>
 						</div>
 					</div>
 
@@ -156,12 +156,11 @@ infobox: "yes"
 								<span class="post__cat">Smartphone</span>
 								<span class="post__date">30.09.2017</span>
 							</div>
-							<h4 class="post__title">Xiaomi Mi Mix 2</h4>
+							<h3 class="post__title">Xiaomi Mi Mix 2</h3>
 						</div>	
 					</div>
 				</div>
 <ul class="pages__nav clearfix">
-					<li class="prev"><span class="icon"></span></li>
 					<li class="number">1</li>
 					<li class="number">di</li>
 					<li class="number">2</li>
@@ -173,7 +172,7 @@ infobox: "yes"
 <div class="project__description">
 				<div class="row">
 					<div class="column col-6">
-						<h5>Le recensioni</h5>
+						<h2>Le recensioni</h2>
 
 <p>Ho pubblicato almeno 500 video recensioni in 12 anni di lavoro online. Ecco una selezione dell'ultimo periodo. Clicca sul prodotto per i dettagli.</p>
 

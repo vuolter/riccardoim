@@ -226,11 +226,11 @@ h3 {
 	font-size: 24px;
 }
 
-h4 {
+h4, h3.post__title {
 	font-size: 20px;
 }
 
-h5 {
+h5, .project__description h2 {
 	font-size: 18px;
 }
 
@@ -1214,14 +1214,14 @@ label {
 	color: #808080;
 }
 
-.post__metas span {
+.post__metas span, .post__metas h4 {
 	display: inline-block;
 	position: relative;
 	font-family: 'Lora', Courier;
 	font-size: 14px;
 }
 
-.post__metas span:not(:last-child) {
+.post__metas span:not(:last-child), .post__metas h4:not(:last-child) {
 	margin-right: 15px;
 }
 

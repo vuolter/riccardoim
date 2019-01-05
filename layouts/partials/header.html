@@ -56,7 +56,13 @@
         <!-- header -->
         <header class="header">
             <div class="logo">
-                <a title="Homepage di Riccardo Palombo" href="{{.Site.BaseURL}}index.html">Riccardo.im<span class="blinking-cursor" > |</span></a>
+                    {{ if isset .Params "infobox" }}
+                    <h1>
+                        <a title="Homepage di Riccardo Palombo" href="{{.Site.BaseURL}}index.html">Riccardo.im<span class="blinking-cursor" > |</span></a>
+                    </h1>
+                    {{ else }}
+                    <a title="Homepage di Riccardo Palombo" href="{{.Site.BaseURL}}index.html">Riccardo.im<span class="blinking-cursor" > |</span></a>
+                    {{ end }}
             </div>
             <div class="burger">
                 <span></span>
