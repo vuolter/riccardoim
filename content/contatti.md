@@ -19,7 +19,7 @@ description: "Contatta e scrivi a Riccardo Palombo. Invia un messaggio per colla
 
 <div class="row">
 		<div class="column col-6">
-				<form method="post" action="https://formspree.io/riccardo.palombo@gmail.com" autocomplete="off">
+				<form method="post" action="https://formspree.io/email@riccardo.im" autocomplete="off">
 					<div class="form-group">
 						<label for="name">Il tuo nome</label>
 						<input type="text" name="name" id="name">
