@@ -6,18 +6,15 @@ date: 2018-12-03T06:01:17+01:00
 ---
 <div class="site__content">
 			<!-- post -->
-			<div class="post">
-
+<div class="post">
 <div class="post__header">
-<div class="post__metas">
-	<span class="post__cat link">Pubblicato il</span>
-	<span class="post__date">31.12.2018</span>
-</div>
 <h1>Privacy and Cookie Policy</h1>
-				</div>
-
-
 Informativa Privacy estesa per riccardo.im
+</div>
+
+
+</div>
+
 
 **Privacy policy**
 
