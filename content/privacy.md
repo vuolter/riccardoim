@@ -240,5 +240,5 @@ Ultima modifica: 12 gennaio 2019
 
 #### Cookie Policy ####
 
-<script id="CookieDeclaration" src="https://consent.cookiebot.com/c39f3660-2379-4ba4-b9c8-e8cf1031d635/cd.js" type="text/javascript" async></script>
+<script id="CookieDeclaration" src="https://consent.cookiebot.com/beeace1e-601a-4b59-92c8-ee4fc4792a1e/cd.js" type="text/javascript" async></script>
 
