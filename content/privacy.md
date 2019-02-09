@@ -97,9 +97,9 @@ Nel caso in cui sia installato un servizio di interazione con i social network, 
 Questi servizi permettono di visualizzare contenuti ospitati su piattaforme esterne direttamente dalle pagine di questo Sito e di interagire con essi.
 Nel caso in cui sia installato un servizio di questo tipo, è possibile che, anche nel caso gli Utenti non utilizzino il servizio, lo stesso raccolga dati di traffico relativi alle pagine in cui è installato.
 
-**Google Font (Google Inc.)**
+**Google Font (Google Ireland Limited)**
 
-Google Fonts è un servizio di visualizzazione di stili di carattere gestito da Google Inc. che permette a questo Sito di integrare tali contenuti all’interno delle proprie pagine.
+Google Fonts è un servizio di visualizzazione di stili di carattere gestito da Google Ireland Limited che permette a questo Sito di integrare tali contenuti all’interno delle proprie pagine.
 
 Dati personali raccolti:  Cookie e dati di utilizzo
 
@@ -109,9 +109,9 @@ Luogo del trattamento: USA [Privacy Policy] (https://www.google.it/intl/en/polic
 
 Questi servizi analizzano il traffico di questo Sito, potenzialmente contenente Dati Personali degli Utenti, al fine di filtrarlo da parti di traffico, messaggi e contenuti riconosciuti come SPAM.
 
-**Google reCAPTCHA (Google Inc.)**
+**Google reCAPTCHA (Google Ireland Limited)**
 
-Google reCAPTCHA è un servizio di protezione dallo SPAM fornito da Google Inc. L’utilizzo del sistema reCAPTCHA è soggetto alla privacy policy e ai termini di utilizzo di Google.
+Google reCAPTCHA è un servizio di protezione dallo SPAM fornito da Google Ireland Limited L’utilizzo del sistema reCAPTCHA è soggetto alla privacy policy e ai termini di utilizzo di Google.
 
 Dati Personali raccolti: Cookie e Dati di utilizzo.
 
@@ -121,9 +121,9 @@ Luogo del trattamento: Stati Uniti – [Privacy Policy] (https://www.google.it/i
 
 I servizi contenuti nella presente sezione permettono al Titolare del Trattamento di monitorare e analizzare i dati di traffico e servono a tener traccia del comportamento dell’Utente.
 
-**Google Analytics (Google Inc.)**
+**Google Analytics (Google Ireland Limited)**
 
-Google Analytics è un servizio di analisi web fornito da Google Inc. (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo di questo Sito, compilare report e condividerli con gli altri servizi sviluppati da Google.
+Google Analytics è un servizio di analisi web fornito da Google Ireland Limited (“Google”). Google utilizza i Dati Personali raccolti allo scopo di tracciare ed esaminare l’utilizzo di questo Sito, compilare report e condividerli con gli altri servizi sviluppati da Google.
 Google potrebbe utilizzare i Dati Personali per contestualizzare e personalizzare gli annunci del proprio network pubblicitario.
 Al seguente link https://tools.google.com/dlpage/gaoptout?hl=it è inoltre reso disponibile da Google il componente aggiuntivo del browser per la disattivazione di Google Analytics
 
