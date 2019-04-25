@@ -8,7 +8,7 @@ description: "Il Mordente è un Podcast curato e registrato da Riccardo Palombo.
 			<!-- post -->
 			<div class="post">
 				<div class="post__image">
-<img src="/assets/img/palombo-riccardo-podcast.jpg" alt="Copertina de Il Mordente - Un Podcast di Riccardo Palombo" class="responsive">
+<img src="/assets/img/riccardo-palombo-mordente.jpg" alt="Copertina de Il Mordente - Un Podcast di Riccardo Palombo" class="responsive">
 				</div>
 
 <div class="post__header">
@@ -20,7 +20,7 @@ description: "Il Mordente è un Podcast curato e registrato da Riccardo Palombo.
 				</div>
 
 <div class="post__content">
-<p>"Il Mordente" è un podcast con cadenza settimanale nel quale parlo di tecnologia, libri, corsa ed esperienze personali. La prima puntata è andata online il 3 dicembre 2018 ed è stata per due giorni al secondo posto della classifica italiana di iTunes, e al terzo posto di quella Spotify. La seconda puntata ha superato le 1500 riproduzioni uniche portando il numero di ascoltatori iscritti sopra i 1000. La terza puntata, il 16 dicembre, ha raddoppiato le riproduzioni. A quattro settimane dal lancio, "Il Mordente" ha 52 recensioni a 5 stelle su Apple iTunes ed è stato inserito nelle principali directory e webradio italiane.</p>
+<p>"Il Mordente" è un podcast con cadenza settimanale nel quale parlo di tecnologia, libri, corsa ed esperienze personali. La prima puntata è andata online il 3 dicembre 2018 ed è stata per due giorni al secondo posto della classifica italiana di iTunes, e al primo posto di quella Spotify. La seconda puntata ha superato le 1500 riproduzioni uniche portando il numero di ascoltatori iscritti sopra i 1000. La terza puntata, il 16 dicembre, ha raddoppiato le riproduzioni. A quattro settimane dal lancio, "Il Mordente" ha 52 recensioni a 5 stelle su Apple iTunes ed è stato inserito nelle principali directory e webradio italiane.</p>
 
 <blockquote>
 	<p>Un piacere ascoltarlo! È come telefonare ad un amico che ti trasmette la positività e la voglia di fare, di continuare a scoprire [...] - ceccolini su iTunes.</p>
@@ -32,10 +32,6 @@ description: "Il Mordente è un Podcast curato e registrato da Riccardo Palombo.
 	<span>Info e dettagli:</span>
 	<a href="https://ilmordente.it" class="link" title ="Visita ilmordente.it">ilmordente.it</a>
 </p>
-
-<div class="post__image">
-<img src="/assets/img/il-mordente-podcast-sito.jpg" alt="Il sito ilmordente.it" class="responsive border">
-				</div>
 
 </div>
 
