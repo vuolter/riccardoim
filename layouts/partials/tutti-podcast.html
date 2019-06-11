@@ -1,0 +1,44 @@
+<div class="row podcast">
+    <div class="col-md-2"></div>
+    <div class="col-md-4 no-padding-left col-sm-6">
+        <span class="small-title atail-post-comments-title"
+            style="margin-bottom:37px;"><span class="atail-plus"></span>ASCOLTA
+            LE PUNTATE</span>
+    </div>
+</div>
+
+<section class="simple-post">
+
+    {{ range .Pages }}
+
+    <!-- Inizio Post -->
+
+
+    <div class="row-col-12" id="post-268">
+
+        <div class="col-md-2 col-md-push-2 no-padding blog-thumbnail col-sm-4">
+            <a href="{{ .Permalink }}" title="Ascolta Il Mordente {{.Params.numero }}">
+                <img src="{{ .Site.BaseURL }}img/podcast/{{.Params.featured_image }}" alt="{{ .Title }}"
+                    class="lazyload" />
+            </a>
+        </div>
+
+        <div class="col-md-4 atail-post-content col-md-push-2 no-padding
+            blog-list-info col-sm-6">
+
+            <div class="blog-category">
+                <span class="blog-category-link">Puntata {{ .Params.numero }}</span>
+            </div>
+
+            <h3>
+                <a href="{{ .Permalink }}" title="Ascolta la puntata {{.Params.numero }} Il Mordente">{{ .Title }}</a>
+            </h3>
+        </div>
+
+    </div>
+
+    <!-- Fine Post -->
+    {{ end }}
+
+
+</section>

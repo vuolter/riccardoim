@@ -1,0 +1,17 @@
+<div class="widget widget_atail_recent_posts_widget">
+    <div class="widget-title"><span class="small-title">Ultime puntate</span></div>
+    <ul>
+         {{ range first 4 (where (where .Site.Pages "Section" "podcast") ".Title" "!=" "Podcast" )}}
+        <li>
+            <img src="{{ .Site.BaseURL }}img/podcast/{{ .Params.featured_image }}" class="lazyload" alt="{{ .Title }}"/>
+
+            <div>
+                <a href="{{ .Permalink }}" title="Ascolta Il Mordente {{ .Params.numero }}">{{ .Title }}</a>
+                <div class="recent-post-info">
+                    <span class="">Puntata {{ .Params.numero }}</span>
+                </div>
+            </div>
+        </li>
+            {{ end }}
+    </ul>
+</div>

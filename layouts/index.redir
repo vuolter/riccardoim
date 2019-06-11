@@ -1,0 +1,12 @@
+/lavori /articoli 301
+/lavori-2 /articoli 301
+/recensioni /articoli 301
+/* /404.html 404
+
+
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+{{  range $p := .Site.Pages -}}
+{{ range .Aliases }}
+{{  . | printf "%-35s" }}	{{ $p.RelPermalink -}}
+{{ end -}}
+{{- end -}}

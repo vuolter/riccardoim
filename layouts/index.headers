@@ -1,0 +1,47 @@
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer-when-downgrade
+/*
+
+
+Link: </fonts/montserrat-v13-latin-regular.woff2>; rel="preload"; as="font";crossorigin
+Link: </fonts/montserrat-v13-latin-700.woff2>; rel="preload"; as="font";crossorigin
+Link: </fonts/hind-v9-latin-300.woff2>; rel="preload"; as="font";crossorigin
+Link: </fonts/hind-v9-latin-regular.woff2>; rel="preload"; as="font";crossorigin
+Link: </fonts/hind-v9-latin-regular.woff2>; rel="preload"; as="font";crossorigin
+
+/fonts/montserrat-v13-latin-regular.woff2
+Cache-Control: public, max-age=31556926, immutable
+
+/fonts/montserrat-v13-latin-700.woff2
+Cache-Control: public, max-age=31556926, immutable
+
+/fonts/hind-v9-latin-300.woff2
+Cache-Control: public, max-age=31556926, immutable
+
+/fonts/hind-v9-latin-regular.woff2
+Cache-Control: public, max-age=31556926, immutable
+
+/js/main.min.js
+Cache-Control: public, max-age=31556926, immutable
+
+/js/jquery-slim.min.js
+Cache-Control: public, max-age=31556926, immutable
+
+/js/jquery.min.js
+Cache-Control: public, max-age=31556926, immutable
+
+/js/cloudinary-core-shrinkwrap.js
+Cache-Control: public, max-age=31556926, immutable
+
+/js/typed.min.js
+Cache-Control: public, max-age=31556926, immutable
+
+/js/lightbox.js
+Cache-Control: public, max-age=31556926, immutable
+
+/js/lazysizes.min.js
+Cache-Control: public, max-age=31556926, immutable
+

@@ -1,8 +1,42 @@
 baseURL = "https://riccardo.im/"
 languageCode = "it-IT"
-title = "Riccardo.im"
+defaultContentLanguage = "it"
+title = "Riccardo.im - Sito ufficiale di Riccardo Palombo"
 disableKinds = ["taxonomy","taxonomyTerm"]
+disqusShortname = "riccardo-im.disqus.com"
+enableRobotsTXT = true
+canonifyURLs = true
+disableAliases = true
+paginate = 99
+paginatePath = ""
+
+[params]
+author = "Riccardo Palombo"
+description = "Sito ufficiale di Riccardo Palombo. Le ultime recensioni, le puntate del podcast Il Mordente, le informazioni di contatto e i lavori scelti."
+Tagline = "Sito ufficiale di Riccardo Palombo"
+Twitter = "@riccardopalombo"
+
 [sitemap]
-changefreq = "monthly"
+changefreq = "weekly"
 filename = "sitemap.xml"
 priority = 0.5
+
+[outputs]
+home = [ "HTML", "RSS", "REDIR", "HEADERS" ]
+section = [ "HTML", "RSS"]
+
+[mediaTypes]
+[mediaTypes."text/netlify"]
+delimiter = ""
+
+[outputFormats]
+[outputFormats.REDIR]
+mediatype = "text/netlify"
+baseName = "_redirects"
+isPlainText = true
+notAlternative = true
+[outputFormats.HEADERS]
+mediatype = "text/netlify"
+baseName = "_headers"
+isPlainText = true
+notAlternative = true

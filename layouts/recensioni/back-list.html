@@ -1,0 +1,75 @@
+{{ partial "header.html" . }}
+
+<main>
+<div class="main-scroll">
+
+            <div class="row all-atail-projects-wrapper">
+
+                <div class="col-md-10 col-xs-8 no-padding">
+                    <div class="all-atail-projects row-col-10">
+
+                        {{ $pages := (where (where .Site.Pages "Type" "!=" "podcast") ".Params.categoria" "!=" nil) }}
+                        {{ range $pages }}
+
+                        <div class="row-col-10 all-atail-projects-single" data-categories="cat-{{ .Params.categoria }}">
+                            <div class="col-md-4 col-md-push-2 no-padding all-atail-projects-article col-xs-10 col-sm-6">
+                                <article>
+                                    <h1>
+                                        <a href="{{ .Permalink }}" title="Leggi {{ .Title }}">
+                                            {{ .Title }}
+                                        </a>
+                                    </h1>
+                                    <a class="open-full-post" data-post="post-70"
+                                       href="{{ .Permalink }}" title="Leggi {{ .Title }}">
+                                        <span>Leggi Tutto</span>
+                                    </a>
+                                </article>
+                            </div>
+                            <div class="col-md-4 no-padding all-atail-projects-img col-xs-10 col-sm-4">
+                                <img width="500" height="350"
+                                     src="{{ .Site.BaseURL }}img/recensioni/{{ .Params.immagine_testa }}"
+                                     alt="{{ .Title }}"/>
+                            </div>
+                        </div>
+    {{ end }}
+
+                    </div>
+                </div>
+
+                <div class="all-atail-projects-category col-md-2 col-xs-4">
+                    <div class="all-atail-projects-category-wrapper">
+                        <div class="all-atail-projects-category-table">
+                            <ul class="no-list">
+                                <li>
+                                    <a href="#" data-action="show-category" data-category="cat-all">Tutto</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-action="show-category" data-category="cat-1">Recensioni</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-action="show-category" data-category="cat-2">Articoli</a>
+                                </li>
+                                 <li>
+                                    <a href="/podcast" data-category="cat-2">Podcast</a>
+                                </li>
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+</div> <!-- main-scroll -->
+
+<div class="grid-bg row">
+  <div class="col-md-2"></div>
+  <div class="col-md-2"></div>
+  <div class="col-md-2"></div>
+  <div class="col-md-2"></div>
+  <div class="col-md-2"></div>
+  <div class="col-md-2"></div>
+</div>
+</main> <!-- main -->
+{{ partial "aside.html" . }}
+{{ partial "footer.html" . }}

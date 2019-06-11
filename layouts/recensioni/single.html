@@ -1,0 +1,131 @@
+{{ partial "header.html" . }}
+<main>
+    <div class="main-scroll">
+
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-4 no-padding-left col-sm-6">
+                <div class="promo-box">
+                    <span class="small-title">Recensione</span>
+                    <h1>{{ .Title }}</h1>
+                </div>
+            </div>
+            <div class="col-md-4 no-padding-left col-sm-6">
+                <img src="{{ .Site.BaseURL }}img/recensioni/{{.Params.immagine_testa }}" alt="{{ .Title }}" />
+            </div>
+
+            <div class="col-md-2"></div>
+        </div>
+
+
+        <div class="single-project row-col-12">
+            <div class="col-md-6 col-md-push-2 no-padding-left">
+                {{ .Content }}
+            </div>
+                 <div class="col-sm-2 col-md-push-2 no-padding-right">
+                      <!-- SHARE -->
+                    <div class="atail-sharing jssocials-shares post-content-header">
+                        <div class="jssocials-share">
+                            <a target="_blank" href="https://facebook.com/sharer/sharer.php?u={{.Permalink}}" class="jssocials-share-link" title="Condividi su Facebook">
+                            <img src="{{.Site.BaseURL}}img/social.png" class="jssocials-share-facebook" async alt="Condividi su Facebook">
+                            </a>
+                        </div>
+                     
+                        <div class="jssocials-share">
+                            <a target="_blank" href="https://twitter.com/share?url={{.Permalink}}&amp;text=Recensione%20{{.Title}}%20via%20%40riccardopalombo" class="jssocials-share-link" title="Condividi su Twitter">
+                            <img src="{{.Site.BaseURL}}img/social.png" class="jssocials-share-twitter" async alt="Condividi su Twitter">
+                            </a>
+                        </div>
+                    </div>        
+  <!-- FINE SHARE --> 
+
+        </div></div>
+
+  
+        <div class="row-col-12">
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-prev atail-project-nav">
+                    {{if .PrevInSection}}
+                    <a href="{{.PrevInSection.Permalink}}"
+                        class="single-project-link-arrow">
+                        <span class="single-project-arrow">
+                            <svg version="1.1"
+                                xmlns="http://www.w3.org/2000/svg" x="0px"
+                                y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454"
+                                enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill=""
+                                            points="51.908,17.599 46.891,13.1
+                                            46.891,17.094 6.904,17.094
+                                            6.904,18.094 46.891,18.094
+                                            46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                        <span>Precedente</span>
+                    </a>
+
+                    <a href="{{.PrevInSection.Permalink}}"
+                        class="single-project-info">
+                        <div class="atail-project-image">
+                            <img width="521" height="303" src="{{ .Site.BaseURL}}img/recensioni/{{.PrevInSection.Params.immagine_testa}}"
+                                alt="{{.PrevInSection.Title}}" />
+                        </div>
+                        <h4>{{.PrevInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+            <div class="col-xs-6 col-md-4 col-md-push-2 no-padding">
+                <div class="single-project-next atail-project-nav">
+                    {{if .NextInSection}}
+                    <a href="{{.NextInSection.Permalink}}"
+                        class="single-project-link-arrow">
+                        <span>Prossima</span>
+                        <span class="single-project-arrow">
+                            <svg version="1.1"
+                                xmlns="http://www.w3.org/2000/svg" x="0px"
+                                y="0px" width="57.143px"
+                                height="34.454px" viewBox="0 0 57.143 34.454"
+                                enable-background="new 0 0 57.143 34.454"
+                                xml:space="preserve">
+                                <g>
+                                    <g>
+                                        <polygon fill=""
+                                            points="51.908,17.599 46.891,13.1
+                                            46.891,17.094 6.904,17.094
+                                            6.904,18.094 46.891,18.094
+                                            46.891,22.099">
+                                        </polygon>
+                                    </g>
+                                </g>
+                            </svg>
+                        </span>
+                    </a>
+
+                    <a href="{{.NextInSection.Permalink}}"
+                        class="single-project-info">
+                        <div class="atail-project-image">
+                            <img width="521" height="303" src="{{ .Site.BaseURL}}img/recensioni/{{.NextInSection.Params.immagine_testa}}"
+                                alt="{{.NextInSection.Title}}" />
+                        </div>
+                        <h4>{{.NextInSection.Title}}</h4>
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <!-- main-scroll -->
+</main> <!-- main -->
+{{ partial "aside.html" . }}
+{{ partial "footer.html" . }}

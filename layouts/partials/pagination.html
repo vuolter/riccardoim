@@ -1,0 +1,29 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<div class="pagination navigation">
+     <div class='nav-links'>
+
+    
+    {{ $ellipsed := false }}
+    {{ $shouldEllipse := false }}
+    {{ range $pag.Pagers }}
+    {{ $right := sub .TotalPages .PageNumber }}
+    {{ $showNumber := or (le .PageNumber 3) (eq $right 0) }}
+    {{ $showNumber := or $showNumber (and (gt .PageNumber (sub $pag.PageNumber 2)) (lt .PageNumber (add $pag.PageNumber 2)))  }}
+    {{ if $showNumber }}
+        {{ $ellipsed = false }}
+        {{ $shouldEllipse = false }}
+    {{ else }}
+        {{ $shouldEllipse = not $ellipsed }}
+        {{ $ellipsed = true }}
+    {{ end }}
+    {{ if $showNumber }}
+    <span class="page-numbers{{ if eq . $pag }} current{{ end }}"><a class="page-numbers" href="{{ .URL }}">{{ .PageNumber }}</a></span>
+    {{ else if $shouldEllipse }}
+    <span class="page-numbers"><span aria-hidden="true">&nbsp;&hellip;&nbsp;</span></span>
+    {{ end }}
+    {{ end }}
+
+</div>
+</div>
+{{ end }}
