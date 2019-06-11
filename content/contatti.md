@@ -48,10 +48,7 @@ Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al nu
         <div class="col-md-2 ">
         </div>
         <div class="col-md-8 col-sm-10 no-padding">
-<form name="contact" method="post" netlify-honeypot="bot-field" data-netlify="true" autocomplete="off" action="/conferma/">
-  <p class="hidden">
-    <label>NON riempire questo spazio se SEI UMANO: <input name="bot-field" /></label>
-  </p>
+<form name="contact" method="post" data-netlify="true" autocomplete="off" action="/conferma/">
 					<div>
 						<label for="name">Il tuo nome</label>
 						<input type="text" name="name">
