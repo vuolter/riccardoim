@@ -53,22 +53,19 @@ Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al nu
     <label>NON riempire questo spazio se SEI UMANO: <input name="bot-field" /></label>
   </p>
 					<div>
-						<label>Il tuo nome
+						<label for="name">Il tuo nome</label>
 						<input type="text" name="name">
-                        </label>
 					</div>
 					<div>
-						<label>Il tuo indirizzo email
+						<label for="email">Il tuo indirizzo email</label>
 						<input type="email" name="email">
-                        </label>
 					</div>
 					<div>
-						<label>Messaggio
+						<label for="message">Messaggio</label>
 						<textarea name="message"></textarea>
-                        </label>
 					</div>
 					<div>
-						<input type="submit" name="submit" value="Invia" style="width:100%">
+						<button type="submit" value="Invia" style="width:100%">
 					</div>
 				</form>
         </div>
