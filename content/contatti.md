@@ -48,13 +48,13 @@ Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al nu
         <div class="col-md-2 ">
         </div>
         <div class="col-md-8 col-sm-10 no-padding">
-<form name="formcontatti" method="post" data-netlify="true" autocomplete="off">
+<form name="formcontatti" method="post" data-netlify="true" autocomplete="off" action="/conferma">
   <p class="hidden">
     <label>NON riempire questo spazio se SEI UMANO: <input name="bot-field" /></label>
   </p>
 					<div>
 						<label for="name">Il tuo nome</label>
-						<input type="text" name="name">
+						<input type="text" name="nome">
 					</div>
 					<div>
 						<label for="email">Il tuo indirizzo email</label>
@@ -62,7 +62,7 @@ Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al nu
 					</div>
 					<div>
 						<label for="message">Messaggio</label>
-						<textarea name="message"></textarea>
+						<textarea name="messaggio"></textarea>
 					</div>
 					<div>
 						<button type="submit" style="width:100%">INVIA
