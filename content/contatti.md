@@ -65,7 +65,7 @@ Oppure mi trovi sui principali social network, ad eccezione di Facebook, e al nu
 						<textarea name="message"></textarea>
 					</div>
 					<div>
-						<button type="submit" value="Invia" style="width:100%">
+						<button type="submit" style="width:100%">INVIA
 					</div>
 				</form>
         </div>
