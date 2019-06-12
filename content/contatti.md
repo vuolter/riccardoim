@@ -16,7 +16,7 @@ contatti: current-menu-item
                 </div>
             </div>
             <div class="col-md-4 no-padding col-sm-6">
-       <div class="videoWrapper embed-responsive embed-responsive-4by3" style="padding-top:0;padding-bottom: 68.25%!important" data-yt-url="https://www.youtube.com/embed/T1WfeoSXKvU?autoplay=1">
+       <div class="videoWrapper embed-responsive embed-responsive-4by3" style="padding-top:0;padding-bottom: 68.25%!important;margin-top:0;" data-yt-url="https://www.youtube.com/embed/T1WfeoSXKvU?autoplay=1">
             <img src="../img/video-riccardo-palombo.jpg" async class="play-youtube-video lazyload" alt="Video Riccardo Palombo">
         </div>
             </div>
